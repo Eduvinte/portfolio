@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c715d3c8.css",
+    "main.js": "/portfolio/static/js/main.0bf710b9.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/bannerHeader.jpg": "/portfolio/static/media/bannerHeader.173f71a0bb81e0a96e5e.jpg",
+    "static/media/projImg3.PNG": "/portfolio/static/media/projImg3.e594aee781a09fc2496f.PNG",
+    "static/media/projImg2.PNG": "/portfolio/static/media/projImg2.bcd01802c0bbad5ede6a.PNG",
+    "static/media/projImg6.PNG": "/portfolio/static/media/projImg6.551ec330befae683671c.PNG",
+    "static/media/projImg4.PNG": "/portfolio/static/media/projImg4.46fc1a0adad4bd030ec8.PNG",
+    "static/media/projImg5.PNG": "/portfolio/static/media/projImg5.b5a8021e1de4a2942840.PNG",
+    "static/media/Astronaut.png": "/portfolio/static/media/Astronaut.8addfd4c9c46ddf52f32.png",
+    "static/media/projImg1.PNG": "/portfolio/static/media/projImg1.79a67d40bf219fb51f73.PNG",
+    "static/media/logo.png": "/portfolio/static/media/logo.665ccd71c463f1e7b17e.png",
+    "static/media/icon1.png": "/portfolio/static/media/icon1.9e094d235b4caa7c31fc.png",
+    "static/media/icon2.png": "/portfolio/static/media/icon2.41a23f98c77f41c13b8e.png",
+    "static/media/icon3.png": "/portfolio/static/media/icon3.11ac6e5b9dc0a59b06ff.png",
+    "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/portfolio/index.html",
+    "main.c715d3c8.css.map": "/portfolio/static/css/main.c715d3c8.css.map",
+    "main.0bf710b9.js.map": "/portfolio/static/js/main.0bf710b9.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c715d3c8.css",
+    "static/js/main.0bf710b9.js"
+  ]
+}
