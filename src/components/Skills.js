@@ -38,7 +38,7 @@ export const Skills = () => {
                         Skills
                     </h2>
                     <p>
-                    I am primarily self-taught, I have personally studied a lot creating applications and web pages only for personal projects, but I wanted to take my knowledge further and make this world my profession and way of life. I love developing. I'm every trying to learn something new, something that can solve someone's problem. Pleased to meet you.                    </p>
+                    I am primarily self-taught. I have dedicated a significant amount of time to studying and creating applications and websites for personal projects. However, I am eager to deepen my knowledge and turn this passion into my profession and way of life. I have a genuine love for development and constantly strive to expand my skill set by learning new things that can address real-world problems. It's a pleasure to make your acquaintance.                    </p>
                 <Carousel responsive={responsive} infinite={true} className="skill-slider">
                     <div className="item">
                         <img src={percent1} />

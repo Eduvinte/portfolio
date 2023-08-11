@@ -59,12 +59,11 @@ export const Projects = () => {
                 <Row>
                     <Col>
                         <h2 id="projects">Projects</h2>
-                        <p>These are my projects, most of them were made for clients that I have had during
-my time working as a freelancer and also on the recommendation of my clients.</p>
+                        <p>These are my projects; the majority of them were created for clients I've worked with during my time as a freelancer, often based on referrals from satisfied clients.</p>
                          <Tab.Container id="projects-tabs" defaultActiveKey="first">
                         <Nav variant="pills" className="nav-pills mb-5 justify-contente-center" id="pills-tab">
                         <Nav.Item>
-                            <Nav.Link eventKey="first">Major projects</Nav.Link>
+                            <Nav.Link eventKey="first">Key Projects</Nav.Link>
                         </Nav.Item>
                         </Nav>
                         <Tab.Content>
